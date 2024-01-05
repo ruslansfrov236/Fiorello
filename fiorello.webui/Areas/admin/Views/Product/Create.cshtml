@@ -1,0 +1,51 @@
+﻿@using fiorello.business.Dto.ProductDto
+@model CreateProductDto
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create</h4>
+            <p class="card-description"> Create elements </p>
+            <form class="forms-sample"   asp-controller="Product" asp-action="Create" asp-area="Admin" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="@Model.Title">Name</label>
+                    <input type="text" class="form-control" id="exampleInputName1" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword4" placeholder="Password">
+                </div>
+                
+                <div class="form-group">
+                    @{
+                        foreach (var file in Model.Files)
+                        {
+                            <label asp-for="@file.File">File upload</label>
+                            <input asp-for="@file.File" name="img[]" class="file-upload-default" id="@("fileInput_" + file.Id)">
+                            <div class="input-group col-xs-12">
+                               
+                                <span class="input-group-append">
+                                    <button class="file-upload-browse btn btn-primary" type="button">Upload</button>
+                                </span>
+                            </div>
+                        }
+                    }
+                </div>
+                <div class="form-group">
+                    <label  asp-for="@Model.Price">City</label>
+                    <input asp-for="@Model.Price" class="form-control" id="exampleInputCity1" placeholder="price">
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Description"></label>
+                    <textarea asp-for="@Model.Description" class="form-control" id="exampleTextarea1" rows="4"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\bin\Debug\net6.0\fiorello.entity.deps.json
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\bin\Debug\net6.0\fiorello.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\bin\Debug\net6.0\fiorello.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.AssemblyInfo.cs
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\refint\fiorello.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\fiorello.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.entity\obj\Debug\net6.0\ref\fiorello.entity.dll

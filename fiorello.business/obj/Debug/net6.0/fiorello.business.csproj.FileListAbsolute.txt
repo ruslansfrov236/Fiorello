@@ -1,0 +1,17 @@
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.business.deps.json
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.business.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.business.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.data.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.data.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\bin\Debug\net6.0\fiorello.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.AssemblyInfo.cs
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.csproj.CopyComplete
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\refint\fiorello.business.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\ref\fiorello.business.dll

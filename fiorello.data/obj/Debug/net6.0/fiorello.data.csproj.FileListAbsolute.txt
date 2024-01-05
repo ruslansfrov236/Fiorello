@@ -1,0 +1,17 @@
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.data.deps.json
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.data.runtimeconfig.json
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.data.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.data.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\bin\Debug\net6.0\fiorello.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.AssemblyInfo.cs
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.csproj.CopyComplete
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\refint\fiorello.data.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.genruntimeconfig.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\ref\fiorello.data.dll
