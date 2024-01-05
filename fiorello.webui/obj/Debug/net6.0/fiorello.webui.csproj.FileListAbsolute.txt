@@ -258,3 +258,4 @@ C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.webui\obj\
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.webui\obj\Debug\net6.0\fiorello.webui.pdb
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.webui\obj\Debug\net6.0\fiorello.webui.genruntimeconfig.cache
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.webui\obj\Debug\net6.0\ref\fiorello.webui.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.webui\obj\Debug\net6.0\fiorello.webui.sourcelink.json

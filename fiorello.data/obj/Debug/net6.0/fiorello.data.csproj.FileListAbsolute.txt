@@ -15,3 +15,4 @@ C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\D
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.pdb
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.genruntimeconfig.cache
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\ref\fiorello.data.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.data\obj\Debug\net6.0\fiorello.data.sourcelink.json

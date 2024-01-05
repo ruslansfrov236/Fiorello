@@ -15,3 +15,4 @@ C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\o
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\refint\fiorello.business.dll
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.pdb
 C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\ref\fiorello.business.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\Fiorello\fiorello.business\obj\Debug\net6.0\fiorello.business.sourcelink.json

@@ -7,7 +7,7 @@ namespace fiorello.business.Abstract
     public interface IAppUserService
     {
         Task<AppUser> Login(string usernameOrEmail, string password);
-        Task LogOut(); 
+        Task LogOutAsync();
         Task<AppUser> Registration(CreateAppUserDto model);
     }
 }
